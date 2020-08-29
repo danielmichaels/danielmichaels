@@ -9,7 +9,7 @@
 - ⚡ Fun fact **almond milk flat white, no sugar**
 
 <p align="center">
-<a href="https://twitter.com/extrapancakes_" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/name__daniel" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://linkedin.com/in/daniel-michaels" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
