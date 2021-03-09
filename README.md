@@ -13,4 +13,8 @@
 <a href="https://linkedin.com/in/daniel-michaels" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danielmichaels&show_icons=true" alt="danielmichaels" /> </p>
+
