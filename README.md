@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Australia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmichaels" alt="danielmichaels" /> </p>
 
-- 📝 I regularly write articles on [danielms.site](danielms.site)
+- 📝 I regularly write articles on [danielms.site](https://danielms.site)
 
 - 💬 Ask me about **Python, Docker and Vue**
 
