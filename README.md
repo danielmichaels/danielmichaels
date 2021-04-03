@@ -2,9 +2,9 @@
 <h3 align="center">A software developer from Australia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmichaels" alt="danielmichaels" /> </p>
 
-- 📝 I regularly write articles on [danielms.site](https://danielms.site)
+- 📝 I write articles at [danielms.site](https://danielms.site) and started [Mudmap](https://mudmap.io?ref=danielmichaels), a pfSense remote management platform.
 
-- 💬 Ask me about **Python, Docker and Vue**
+- 💬 Ask me about **Python, Docker and (now) React**
 
 - ⚡ Fun fact **almond milk flat white, no sugar**
 
