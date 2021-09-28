@@ -15,14 +15,14 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-388796%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-389094%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning    253 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.37% 
-🌆 Daytime    404 commits    ███████░░░░░░░░░░░░░░░░░░   30.93% 
-🌃 Evening    589 commits    ███████████░░░░░░░░░░░░░░   45.1% 
+🌆 Daytime    405 commits    ███████░░░░░░░░░░░░░░░░░░   31.01% 
+🌃 Evening    588 commits    ███████████░░░░░░░░░░░░░░   45.02% 
 🌙 Night      60 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.59%
 
 ```
@@ -55,7 +55,7 @@ Python                   35 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 27/09/2021
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danielmichaels&show_icons=true" alt="danielmichaels" /> </p>
