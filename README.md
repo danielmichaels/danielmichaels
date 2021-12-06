@@ -15,7 +15,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--9621%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--10%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -46,16 +46,16 @@ Sunday       247 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JSX                      8 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.07% 
-JavaScript               6 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   30.33% 
-Go                       3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
-Python                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4% 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
+JSX                      7 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.07% 
+JavaScript               5 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   27.06% 
+Go                       4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82% 
+Markdown                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
+Python                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46%
 
 ```
 
 
- Last Updated on 05/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danielmichaels&show_icons=true" alt="danielmichaels" /> </p>
