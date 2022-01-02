@@ -15,7 +15,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--389%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--393%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -33,9 +33,9 @@ Monday       163 commits    ██░░░░░░░░░░░░░░░�
 Tuesday      164 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
 Wednesday    221 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
 Thursday     146 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
-Friday       248 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.93% 
+Friday       247 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
 Saturday     274 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.7% 
-Sunday       249 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.0%
+Sunday       250 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.06%
 
 ```
 
@@ -55,7 +55,7 @@ JSX                      7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/01/2022
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danielmichaels&show_icons=true" alt="danielmichaels" /> </p>
