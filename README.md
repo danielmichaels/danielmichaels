@@ -5,7 +5,7 @@
 - 📝 I write articles at [danielms.site](https://danielms.site?ref=danielmichaels-github) and created:
     - [Mudmap](https://mudmap.io?ref=danielmichaels-github), a pfSense remote management platform.
     - [Check Redirects](https://www.check-redirects.com?ref=danielmichaels-github), a URL redirection analysis tool
-- 💬 Ask me about **Python, Docker, React and Next.js**
+- 💬 Ask me about **Python, Go, Docker, and Next.js**
 
 - ⚡ Fun fact **almond milk flat white, no sugar**
 
