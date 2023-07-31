@@ -2,10 +2,12 @@
 <h3 align="center">A software developer from Australia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmichaels" alt="danielmichaels" /> </p>
 
-- 📝 I write articles at [danielms.site](https://danielms.site?ref=danielmichaels-github) and created:
+- 📝 I write things at [danielms.site](https://danielms.site?ref=danielmichaels-github) and created:
     - [Mudmap](https://mudmap.io?ref=danielmichaels-github), a pfSense remote management platform.
     - [Check Redirects](https://www.check-redirects.com?ref=danielmichaels-github), a URL redirection analysis tool
-- 💬 Ask me about **Python, Go, Docker, and Next.js**
+    - [tars.run](https://tars.run?ref=danielmichaels-github), a link shortener using LiteStream and Go
+    - and I use [OpenFaaS](https://github.com/openfaas) routinely.
+- 💬 Ask me about **Python, Go, and the Cloud**
 
 - ⚡ Fun fact **almond milk flat white, no sugar**
 
