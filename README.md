@@ -3,12 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmichaels" alt="danielmichaels" /> </p>
 
 - 📝 I write things at [danielms.site](https://danielms.site?ref=danielmichaels-github) and created:
-    - [Mailwarden](https://mailwarden.app?ref=danielmichaels-github), email management without leaving Slack
-    - [Mudmap](https://mudmap.io?ref=danielmichaels-github), a pfSense remote management platform.
     - [Check Redirects](https://www.check-redirects.com?ref=danielmichaels-github), a URL redirection analysis tool
     - [tars.run](https://tars.run?ref=danielmichaels-github), a link shortener using [litestream](https://litestream.io) and Go
 
-- 💬 Ask me about **Python, Go, and the Cloud**
+- 💬 Ask me about **Python, Go, [NATS](https://nats.io) and the Cloud**
 
 - ⚡ Fun fact **almond milk flat white, no sugar**
 
